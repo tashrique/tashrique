@@ -1,8 +1,7 @@
 
-<h3 style="align: center">H3 that is center aligned</h3>
 
 
-Hi 👋, I'm Tashrique (he/him)
+##Hi 👋, I'm Tashrique (he/him)
 A passionate Software Engineer and Robotics Enthusiast from MA, USA
 
 
