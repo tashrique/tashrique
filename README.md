@@ -1,7 +1,7 @@
 
 
 
-##Hi 👋, I'm Tashrique (he/him)
+<H# align="center">Hi 👋, I'm Tashrique (he/him) </H3>
 A passionate Software Engineer and Robotics Enthusiast from MA, USA
 
 
