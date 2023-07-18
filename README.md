@@ -12,9 +12,9 @@ Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
 
 Conducting research on soft-robotics mixed reality at Willaims Robotics Lab 🤖
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tashrique)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tj)  
 
-![Profile views](https://gpvc.arturio.dev/tashrique)  
+![Profile views](https://gpvc.arturio.dev/tj)  
 
 
 A Google Developer Expert on Android. An Android Engineer at DeliveryHero and also Co-organizer of GDG MAD (Mumbai). Community is ❤️. Code blooded animal, 1xEngineer 😛 and ☕ lover.
