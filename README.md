@@ -30,11 +30,3 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Book%20an%20Appointment-08d665?style=for-the-badge&logo=&logoColor=black)](https://calendar.app.google/9sAf1mgdEw7HRUJc9) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=phone&logoColor=black)](https://buymeacoffee.com/tashrique) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=tashrique&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tashrique&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=tashrique&icon=1&color=3)](https://visitcount.itsvg.in)
-
