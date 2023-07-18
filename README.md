@@ -5,7 +5,7 @@
 
 
 
-### Who is this Tashrique?
+## Who is this Tashrique?
 
 * Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Statistics 💻📊
 
@@ -15,7 +15,7 @@
 
 
 
-### 🤔 What can he do? 
+## 🤔 What can he do? 
 
 **Languages:** C, JavaScript, Python, Java, C++, Powershell
 
@@ -24,7 +24,7 @@
 **Fields of Interest:**  Software Engineering, Process Automation, Robotics, Product Management, Entrepreneurship
 
 
-### ✅ I need to talk to him! 
+## ✅ I need to talk to him! 
 
 **Socials:** [Linkedin](https://linkedin.com/in/tashrique-ahmed) | [Github](https://github.com/tashrique) | [Personal Website](https://www.tashrique.com)
 
