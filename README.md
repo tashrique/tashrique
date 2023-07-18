@@ -6,15 +6,12 @@
 
 ### Who is this Tashrique?
 
-I am a Rising Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science and Statistics 💻📊
+* | + | - I am a Rising Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science and Statistics 💻📊
 
-Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
+* | + | - Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
 
-Conducting research on soft-robotics mixed reality at Willaims Robotics Lab 🤖
+* | + | - Conducting research on soft-robotics mixed reality at Willaims Robotics Lab 🤖
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tj)  
-
-![Profile views](https://gpvc.arturio.dev/tj)  
 
 
 A Google Developer Expert on Android. An Android Engineer at DeliveryHero and also Co-organizer of GDG MAD (Mumbai). Community is ❤️. Code blooded animal, 1xEngineer 😛 and ☕ lover.
