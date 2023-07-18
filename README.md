@@ -6,15 +6,14 @@
 
 ### Who is this Tashrique?
 
-* | + | - I am a Rising Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science and Statistics 💻📊
+* Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Statistics 💻📊
 
-* | + | - Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
+* Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
 
-* | + | - Conducting research on soft-robotics mixed reality at Willaims Robotics Lab 🤖
+* Conducting research on Soft-Robotics Mixed Reality at Willaims Robotics Lab 🤖
 
 
-
-A Google Developer Expert on Android. An Android Engineer at DeliveryHero and also Co-organizer of GDG MAD (Mumbai). Community is ❤️. Code blooded animal, 1xEngineer 😛 and ☕ lover.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tashrique)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tashrique-ahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.tashrique.com)  
 
 I ocassionally blog and tweet about android. Also open sourced few android related stuff.
 🔭 I’m currently working at The Kive Company as a SWE and Automation Intern
