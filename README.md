@@ -32,6 +32,6 @@
 
 ☕ [**Buy me a coffee**](https://buymeacoffee.com/tashrique)
 
-[![DOWNLOAD MY RESUME](https://img.shields.io/badge/Book%20an%20Appointment-08d665?style=for-the-badge&logo=&logoColor=black)](https://www.tashrique.com/download-cv/) 
+[![DOWNLOAD MY RESUME](https://img.shields.io/badge/DOWNLOAD%20MY%20RESUME-08d665?style=for-the-badge&logo=&logoColor=black)](https://www.tashrique.com/download-cv/) 
 
 
