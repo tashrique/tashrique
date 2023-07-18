@@ -1,7 +1,10 @@
 ### Hi, I'm Tashrique 👋🏻👨🏻‍💻
+(he/him) [tash-rik]
 
 ![www.tashrique.com](https://github.com/tashrique/temp/blob/main/Tashrique%20Ahmed.png)
 
+
+### Who is Tashrique?
 
 I am a Rising Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science and Statistics 💻📊
 
