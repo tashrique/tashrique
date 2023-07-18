@@ -14,7 +14,8 @@
 * Conducting research on Soft-Robotics Mixed Reality at Willaims Robotics Lab 🤖
 
 
-### What can he do? 🤔
+
+### 🤔 What can he do? 
 
 **Languages:** C, JavaScript, Python, Java, C++, Powershell
 
@@ -22,11 +23,13 @@
 
 **Fields of Interest:**  Software Engineering, Process Automation, Robotics, Product Management, Entrepreneurship
 
-### I need to talk to him! 🗨️
+
+### ✅ I need to talk to him! 
 
 **Socials:** [Linkedin](https://linkedin.com/in/tashrique-ahmed) | [Github](https://github.com/tashrique) | [Personal Website](https://www.tashrique.com)
 
 **Set up an appointment with me:** [Book a 20 minutes appointment w/ Tashrique](https://calendar.app.google/9sAf1mgdEw7HRUJc9)
+
 
 ## 🌐 Socials:
 
