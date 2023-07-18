@@ -27,6 +27,10 @@
 ## I need to talk to him! ✅
 
 **Socials:** [Linkedin](https://linkedin.com/in/tashrique-ahmed) | [Github](https://github.com/tashrique) | [Personal Website](https://www.tashrique.com)
+**Book an Appointment:** [Book a 20 mins appointment w/ Tashrique](https://calendar.app.google/9sAf1mgdEw7HRUJc9)
+[**Buy me a coffee**](https://buymeacoffee.com/tashrique)
 
 [![BuyMeACoffee](https://img.shields.io/badge/Book%20an%20Appointment-08d665?style=for-the-badge&logo=&logoColor=black)](https://calendar.app.google/9sAf1mgdEw7HRUJc9) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=phone&logoColor=black)](https://buymeacoffee.com/tashrique) 
+
+
