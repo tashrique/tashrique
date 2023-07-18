@@ -1,9 +1,14 @@
 ### Hi, I'm Tashrique 👋🏻👨🏻‍💻
 
-![I am GitHub Readme Generator's creator](https://github.com/tashrique/temp/blob/main/Tashrique%20Ahmed.png)
-A passionate Software Engineer and Robotics Enthusiast from MA, USA
+![www.tashrique.com](https://github.com/tashrique/temp/blob/main/Tashrique%20Ahmed.png)
 
 
+I am a Rising Sophomore at [Williams College](www.williams.edu)
+
+
+A Google Developer Expert on Android. An Android Engineer at DeliveryHero and also Co-organizer of GDG MAD (Mumbai). Community is ❤️. Code blooded animal, 1xEngineer 😛 and ☕ lover.
+
+I ocassionally blog and tweet about android. Also open sourced few android related stuff.
 🔭 I’m currently working at The Kive Company as a SWE and Automation Intern
 
 🌱 I’m currently learning Algorithm Design + Automation Engineering + Data Structures 🐸
