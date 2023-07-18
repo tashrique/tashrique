@@ -3,7 +3,7 @@
 ![www.tashrique.com](https://github.com/tashrique/temp/blob/main/Tashrique%20Ahmed.png)
 
 
-I am a Rising Sophomore at [Williams College](www.williams.edu)
+I am a Rising Sophomore at [Williams College](https://www.williams.edu)
 
 
 A Google Developer Expert on Android. An Android Engineer at DeliveryHero and also Co-organizer of GDG MAD (Mumbai). Community is ❤️. Code blooded animal, 1xEngineer 😛 and ☕ lover.
