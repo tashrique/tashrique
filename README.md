@@ -1,7 +1,6 @@
+### Hi, I'm Tashrique 👋🏻👨🏻‍💻
 
-
-
-<H# align="center">Hi 👋, I'm Tashrique (he/him) </H3>
+![I am GitHub Readme Generator's creator](https://github.com/tashrique/temp/blob/main/Tashrique%20Ahmed.png)
 A passionate Software Engineer and Robotics Enthusiast from MA, USA
 
 
