@@ -17,18 +17,21 @@
 
 ## What can he do? 👨🏻‍💼
 
-* **Languages:** C, JavaScript, Python, Java, C++, Powershell
+**Languages:** C, JavaScript, Python, Java, C++, Powershell
 
-* **Skills:** Git/Version Control, .NET, Amazon AWS, MySQL, Docker, SolidWorks, MetaShape, Photoshop, Scrum/Agile 
+**Skills:** Git/Version Control, .NET, Amazon AWS, MySQL, Docker, SolidWorks, MetaShape, Photoshop, Scrum/Agile 
 
-* **Fields of Interest:**  Software Engineering, Process Automation, Robotics, Product Management, Entrepreneurship
+**Fields of Interest:**  Software Engineering, Process Automation, Robotics, Product Management, Entrepreneurship
 
 
 ## I need to talk to him! ✅
 
 **Socials:** [Linkedin](https://linkedin.com/in/tashrique-ahmed) | [Github](https://github.com/tashrique) | [Personal Website](https://www.tashrique.com)
 
-**Set up an appointment with me:** [Book a 20 mins appointment w/ Tashrique](https://calendar.app.google/9sAf1mgdEw7HRUJc9)
+**Set up an appointment with me:** [Book a 20 minutes appointment w/ Tashrique](https://calendar.app.google/9sAf1mgdEw7HRUJc9)
+
+**Buy me a coffee:** [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tashrique) 
+
 
 
 ## 🌐 Socials:
@@ -54,7 +57,7 @@
 [![](https://visitcount.itsvg.in/api?id=tashrique&icon=1&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tashrique) 
+  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
