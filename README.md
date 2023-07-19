@@ -5,7 +5,7 @@
 
 
 
-## Who is this Tashrique? 🤷🏻‍♂️
+## Who is this Tashrique? 🤷🏻‍♂️ 
 
 * Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Statistics 💻📊
 
