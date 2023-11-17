@@ -7,7 +7,7 @@
 
 ## Who is this Tashrique? 🤷🏻‍♂️ 
 
-* Sophomore at [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Statistics 💻📊
+* [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Mathematics 💻📊
 
 * Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
 
@@ -17,9 +17,9 @@
 
 ## What can he do? 👨🏻‍💼
 
-**Languages:** C, JavaScript, Python, Java, C++, Powershell
+**Languages:** C, JavaScript, Python, Java, Powershell
 
-**Skills:** Git/Version Control, .NET, Amazon AWS, MySQL, Docker, SolidWorks, MetaShape, Photoshop, Scrum/Agile 
+**Skills:** Git/Version Control, Amazon AWS, MySQL, Docker, Scrum/Agile 
 
 **Fields of Interest:**  Software Engineering, Process Automation, Robotics, Product Management, Entrepreneurship
 
