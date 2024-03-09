@@ -5,11 +5,13 @@
 
 
 
-## Who is this Tashrique? 🤷🏻‍♂️ 
+## Who is Tashrique? 🤷🏻‍♂️ 
 
 * [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Mathematics 💻📊
 
-* Previously SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
+* Previously *
+- SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
+- SWe Intern at [The Legal Accountability Project](https://www.legalaccountabilityproject.org/)
 
 * Conducting research on Soft-Robotics Mixed Reality at Willaims Robotics Lab 🤖
 
@@ -17,7 +19,9 @@
 
 ## What can he do? 👨🏻‍💼
 
-**Languages:** C, JavaScript, Python, Java, Powershell
+**Languages:** JavaScript, Python, C, C++, F#
+
+**Developer Tools:** HTML, CSS, Tailwind, React, Next.js, REST API
 
 **Skills:** Git/Version Control, Amazon AWS, MySQL, Docker, Scrum/Agile 
 
