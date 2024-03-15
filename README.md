@@ -9,9 +9,8 @@
 
 * [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Mathematics 💻📊
 
-* Previously *
-- SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
-- SWe Intern at [The Legal Accountability Project](https://www.legalaccountabilityproject.org/)
+- ex-SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
+- ex-SWE Intern at [The Legal Accountability Project](https://www.legalaccountabilityproject.org/)
 
 * Conducting research on Soft-Robotics Mixed Reality at Willaims Robotics Lab 🤖
 
