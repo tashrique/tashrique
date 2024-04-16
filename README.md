@@ -38,3 +38,16 @@
 [![DOWNLOAD MY RESUME](https://img.shields.io/badge/DOWNLOAD%20MY%20RESUME-08d665?style=for-the-badge&logo=&logoColor=black)](https://www.tashrique.com/download-cv/) 
 
 
+
+
+<br/>
+
+<br/>
+<br/>
+
+
+<p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tashrique&layout=compact&theme=dark" alt=tashrique />
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tashrique&theme=dark" alt="tashrique" /></p>
+
+
