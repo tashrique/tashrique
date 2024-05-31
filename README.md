@@ -7,8 +7,10 @@
 
 ## Who is Tashrique? 🤷🏻‍♂️ 
 
-* [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Mathematics 💻📊
+* [Williams College](https://www.williams.edu) 💜🐮 majoring in Computer Science + Mathematics 📊
+* [UC Berkeley](https://www.berkeley.edu/) 🐻 Computer Science 💻
 
+- Current SWE at [PowWater Limited](powwater.com) 💧
 - ex-SWE Intern at [The Kive Company](https://www.artkiveapp.com) 🎨
 - ex-SWE Intern at [The Legal Accountability Project](https://www.legalaccountabilityproject.org/)
 
