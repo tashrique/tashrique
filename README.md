@@ -20,13 +20,13 @@
 
 ## What can he do? 👨🏻‍💼
 
-**Languages:** JavaScript, Python, C, C++, F#
+**Languages:** Python, JavaScript / Typescript, Kotlin, Java, Go, C / C++, F#, Perl
 
-**Developer Tools:** HTML, CSS, Tailwind, React, Next.js, REST API
+**Developer Tools:** React.js, Next.js, Node.js, Express.js, Tailwind, REST APIs, GraphQL, MongoDB, Mongoose, Firebase, HTML /CSS, JWT, PostgreSQL, Cosmos DB, Supabase, Linux, PyTorch, AWS Lambda, S3, Docker, Kubernetes, CI/CD
 
 **Skills:** Git/Version Control, Amazon AWS, MySQL, Docker, Scrum/Agile 
 
-**Fields of Interest:**  Software Engineering, Process Automation, Robotics, Product Management, Entrepreneurship
+**Courseworks:**  Data Structures and Object-Oriented Design, Computer Organization, Principles of Programming Languages, Algorithm Design, Deep Learning, Computer Vision, Artificial Intelligence, Operating Systems, Internet and Architecture
 
 
 ## I need to talk to him! ✅
