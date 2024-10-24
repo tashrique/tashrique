@@ -33,7 +33,7 @@
 
 **Socials:** [Linkedin](https://linkedin.com/in/tashrique-ahmed) | [Github](https://github.com/tashrique) | [Personal Website](https://www.tashrique.com)
 
-**Book an Appointment:** [Book a 20 mins appointment w/ Tashrique](https://calendar.app.google/9sAf1mgdEw7HRUJc9)
+**Book an Appointment:** [Book a 20 mins appointment w/ Tashrique](https://calendly.com/tashrique-ahmed/meet)
 
 ☕ [**Buy me a coffee**](https://buymeacoffee.com/tashrique)
 
