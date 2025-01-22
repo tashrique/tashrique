@@ -1,8 +1,7 @@
 ### Hi, I'm Tashrique 👋🏻👨🏻‍💻
 (he/him) [tash-rik]
 
-![www.tashrique.com](https://github.com/tashrique/temp/blob/master/Tashrique%20Ahmed.png)
-
+![www.tashrique.com](https://github.com/tashrique/tashrique/blob/main/Tashrique%20Ahmed.png)
 
 
 ## Who is Tashrique? 🤷🏻‍♂️ 
